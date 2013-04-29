@@ -1,5 +1,4 @@
 conflictos
 ==========
 EL: Mi mensaje
-
-ricardo rodriguez lara
+EL: Segunda Línea
